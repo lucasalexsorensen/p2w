@@ -1,0 +1,8 @@
+## Interface: 20505
+## Title: p2w
+## Author: You
+## Version: 1.0.0
+## Notes: Displays real currency equivalent alongside gold/silver/copper values
+## SavedVariables: p2wDB
+
+p2w.lua
