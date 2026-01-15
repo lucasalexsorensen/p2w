@@ -115,7 +115,7 @@ local function getOrCreateDKKLabel(moneyFrame)
 
   if not dkkLabels[frameName] then
     local label = moneyFrame:CreateFontString(nil, "OVERLAY", "GameFontNormalSmall")
-    label:SetPoint("TOP", moneyFrame, "BOTTOM", 0, -2)
+    label:SetPoint("BOTTOM", moneyFrame, "TOP", 0, 2)
     label:SetTextColor(0, 1, 0) -- Green
     dkkLabels[frameName] = label
   end
