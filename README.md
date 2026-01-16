@@ -4,4 +4,4 @@ WoW classic addon that shows equivalent IRL currency instead of gold by hooking 
 
 Currently it's hardcoded to only display in DKK with an exchange rate of 0.3 DKK/gold
 
-<img width="457" height="172" alt="image" src="https://github.com/user-attachments/assets/0dc2ed36-c36e-4a7f-8384-113f8c1d6f33" />
+<img width="511" height="307" alt="image" src="https://github.com/user-attachments/assets/b0db5607-8588-4524-82f7-9623e1437f52" />
